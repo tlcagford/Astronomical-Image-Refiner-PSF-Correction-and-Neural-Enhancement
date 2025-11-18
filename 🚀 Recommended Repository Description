@@ -1,0 +1,51 @@
+# Astro-PSF-Symmetry-Mapper: HST & JWST Image Processing Suite
+
+**Advanced astronomical image processing combining 13 years of HST/WFC3 PSF characterization with JWST mosaicking pipelines for precision astronomy in the JWST era.**
+
+## 🔬 What This Does
+
+A comprehensive toolkit that merges two powerful astronomical imaging technologies:
+
+- **HST/WFC3 IR Point Spread Function**: 13-year empirical PSF characterization for precision photometry
+- **JWST-Merge**: Advanced MIRI and NIRCam image mosaicking and alignment
+- **Symmetry-based mapping** for optimal image combination and artifact reduction
+
+## 🌟 Key Features
+
+### HST/WFC3 PSF Module
+- 13-year empirical PSF database for WFC3/IR
+- Time-dependent PSF modeling
+- Precision astrometry and photometry corrections
+- JWST-era calibration standards
+
+### JWST Mosaicking Pipeline  
+- MIRI and NIRCam image combination
+- Advanced dither pattern reconstruction
+- Background matching and gradient removal
+- Cosmic ray rejection optimized for JWST
+
+### Symmetry Mapping Engine
+- Neural symmetry detection for optimal alignment
+- PSF-constrained image combination
+- Artifact identification and mitigation
+- Multi-instrument cross-calibration
+
+## 🛠 Use Cases
+
+- **JWST data reduction** with HST-calibrated PSF models
+- **Multi-epoch HST+JWST** combined analysis
+- **Precision photometry** for exoplanet studies
+- **Deep field mosaicking** with optimal SNR
+- **Instrument cross-calibration** between HST and JWST
+
+## 📥 Quick Start
+
+```python
+from astro_psf_mapper import HST_PSF_Characterizer, JWST_Mosaic_Engine
+
+# Load 13-year HST PSF characterization
+psf_model = HST_PSF_Characterizer('wfc3_ir')
+
+# Create JWST mosaic with HST-optimized PSF
+mosaic_engine = JWST_Mosaic_engine(psf_model=psf_model)
+combined_image = mosaic_engine.process_jwst_data(nircam_data, miri_data)
