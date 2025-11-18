@@ -1,0 +1,8 @@
+recipe:
+  target: "quickstart"
+  run_jwst_merge: true
+  run_wfc3_psf: false
+  jwst_params:
+    pixscale: 0.03
+    drizzle: "auto"
+    cr_reject: "standard"
