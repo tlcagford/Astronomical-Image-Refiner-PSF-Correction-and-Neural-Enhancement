@@ -1,0 +1,11 @@
+recipe:
+  target: "science"
+  run_jwst_merge: true
+  run_wfc3_psf: true
+  jwst_params:
+    pixscale: 0.03
+    drizzle: "conserve"
+    cr_reject: "science"
+  wfc3_params:
+    choose_stars: "ai-auto"
+    psf_sampling: "native"
