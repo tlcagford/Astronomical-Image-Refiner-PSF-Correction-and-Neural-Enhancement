@@ -6,7 +6,12 @@
 
 # Astronomical Image Refiner: PSF Correction & Neural Enhancement
 
----
+**"HST-to-JWST Image Processor: 13-year PSF characterization meets next-gen mosaicking for precision multi-mission astronomy"**
+
+## 🔬 This isn't just another image processor - it's **bridging 13 years of HST calibration with JWST's revolutionary capabilities**, enabling precision science that wasn't possible before!
+---:**
+
+
 
 ## 📝 Licensing
 This project uses a **Dual-License model**:
