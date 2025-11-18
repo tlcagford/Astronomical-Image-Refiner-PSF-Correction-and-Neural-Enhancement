@@ -4,8 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](#)
 
 
-# Astrological-Imaging-Neuro-Symmetry-Mapper
-
+#Astronomical Image Refiner: PSF Correction & Neural Enhancement
 
 ---
 
