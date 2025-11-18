@@ -1,0 +1,24 @@
+neuro-symmetry-mapper/
+├── pyproject.toml
+├── setup.cfg
+├── setup.py
+├── requirements.txt
+├── README.md
+├── nsm/
+│   ├── __init__.py
+│   ├── orchestrator.py
+│   ├── cli.py
+│   ├── advisor.py
+│   ├── runners/
+│   │   ├── __init__.py
+│   │   ├── jwst_runner.py
+│   │   └── wfc3_runner.py
+│   └── utils.py
+├── presets/
+│   ├── quickstart_recipe.yml
+│   └── science_recipe.yml
+├── notebooks/
+│   └── voila_dashboard.py   # Jupytext-style Python file with cell markers
+└── examples/
+    └── example_run.sh
+
