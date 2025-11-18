@@ -1,0 +1,9 @@
+astropy
+PyYAML
+typer
+rich
+ipython
+ipywidgets
+voila
+matplotlib
+numpy
