@@ -8,8 +8,16 @@
 
 **"HST-to-JWST Image Processor: 13-year PSF characterization meets next-gen mosaicking for precision multi-mission astronomy"**
 
-## 🔬 This isn't just another image processor - it's **bridging 13 years of HST calibration with JWST's revolutionary capabilities**, enabling precision science that wasn't possible before!
----:**
+
+## 🚀 What Is This?
+
+Astronomical Image Refiner is a software framework designed to improve the quality of telescope images by combining **point spread function (PSF)** correction with **neural network–based image enhancement**. The goal is to recover fine spatial details in astronomical data—especially when combining images from different missions like Hubble (HST) and the James Webb Space Telescope (JWST).
+
+This tool enables:  
+- **PSF correction:** Use physically or empirically derived PSFs to deconvolve blurred images.  
+- **Neural enhancement:** Deep learning models enhance structures (stars, galaxies, nebulae) while suppressing noise and artifacts.  
+- **Multi-mission processing:** Integrate data from different space telescopes for unified, high-resolution mosaics.  
+- **Precision science:** Produce scientifically meaningful images suitable for photometry, morphological studies, and more.
 
 
 
