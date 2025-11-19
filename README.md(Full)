@@ -1,0 +1,56 @@
+# Astronomical Image Refiner  
+**PSF Correction & Neural Enhancement**
+
+> *“HST-to-JWST Image Processor: 13-year PSF characterization meets next-gen mosaicking for precision multi-mission astronomy”*
+
+---
+
+## 🚀 What Is This?
+
+Astronomical Image Refiner is a software framework designed to improve the quality of telescope images by combining **point spread function (PSF)** correction with **neural network–based image enhancement**. The goal is to recover fine spatial details in astronomical data—especially when combining images from different missions like Hubble (HST) and the James Webb Space Telescope (JWST).
+
+This tool enables:  
+- **PSF correction:** Use physically or empirically derived PSFs to deconvolve blurred images.  
+- **Neural enhancement:** Deep learning models enhance structures (stars, galaxies, nebulae) while suppressing noise and artifacts.  
+- **Multi-mission processing:** Integrate data from different space telescopes for unified, high-resolution mosaics.  
+- **Precision science:** Produce scientifically meaningful images suitable for photometry, morphological studies, and more.
+
+---
+
+## 📚 Why It Matters
+
+- **PSF degradation** (due to optics + atmosphere) limits image sharpness. Deconvolution helps, but classical methods can amplify noise.  
+- Neural networks can learn to “undo” blur while preserving real astrophysical structure, based on training on realistic simulations or calibration data. Similar approaches have been published in the literature. :contentReference[oaicite:0]{index=0}  
+- By combining **13 years of calibration** (e.g. from HST) with modern deep learning, this project makes high-fidelity image reconstruction more robust and accessible.
+
+---
+
+## 🔧 Features
+
+| Feature | Description |
+|---|---|
+| **PSF Estimation** | Characterize and model PSFs over time or spatially across the field. |
+| **Deconvolution** | Use PSF models to reverse blurring (non-blind deconvolution). |
+| **Neural Enhancement** | Use neural nets (e.g., U-Net, CNNs) to sharpen and clean images. |
+| **Mosaicking** | Generate mosaics from multi-mission data with consistent resolution. |
+| **CLI + Notebook Support** | Run from the command line, or explore via Jupyter notebooks. |
+| **Extensible** | Easily add new PSF models, network architectures, or datasets. |
+
+---
+
+## 🧪 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/tlcagford/Astronomical-Image-Refiner-PSF-Correction-and-Neural-Enhancement.git
+cd Astronomical-Image-Refiner-PSF-Correction-and-Neural-Enhancement
+
+# Create a virtual environment (recommended)
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+# Install dependencies
+pip install -r requirements.txt
+
+# (Optional) install as a package
+pip install .
