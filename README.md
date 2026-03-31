@@ -9,8 +9,8 @@ All previous versions have been superseded by **QCAUS v1.0**.
 
 New unified QCAUS v1.0 contains everything from the old projects plus major improvements (annotated overlays, ZIP export, historical airport presets, full physics display).
 
-**New main project:** QCAUS v1.0 → [your current live link]
-
+**[Launch QCAUS App](https://qcaustfordmodel.streamlit.app/)**]
+https://github.com/tlcagford/QCAUS
 — Tony E. Ford, March 31, 2026
 # 🌌 Quantum Cosmology & Astrophysics Unified Suite (QCAUS)
 
