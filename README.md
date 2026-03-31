@@ -1,4 +1,17 @@
+```markdown
+# Archived Old QCAUS & StealthPDPRadar Projects (v0.1 – v0.9)
 
+**These repositories will be archived on April 14, 2026 (in 2 weeks).**
+
+All previous versions have been superseded by **QCAUS v1.0**.
+
+**Please download any code or data you need before April 14, 2026.**
+
+New unified QCAUS v1.0 contains everything from the old projects plus major improvements (annotated overlays, ZIP export, historical airport presets, full physics display).
+
+**New main project:** QCAUS v1.0 → [your current live link]
+
+— Tony E. Ford, March 31, 2026
 # 🌌 Quantum Cosmology & Astrophysics Unified Suite (QCAUS)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantum-cosmology-astrophysics-unified-suite.streamlit.app/)
