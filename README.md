@@ -20,7 +20,7 @@ https://github.com/tlcagford/QCAUS
 [![License](https://img.shields.io/badge/License-Dual%20License-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-A unified computational framework integrating 8 interconnected open-source projects that explore the quantum nature of the universe – from dark matter solitons to quantum-corrected cosmology, magnetar QED, and stealthdarkleakage detection. 
+A unified computational framework integrating 8 interconnected open-source projects that explore the quantum nature of the universe – from dark matter solitons to quantum-corrected cosmology, magnetar QED, and stealth/dark-leakage detection. 
 
 **[Launch QCAUS App](https://qcaustfordmodel.streamlit.app/)**
 
