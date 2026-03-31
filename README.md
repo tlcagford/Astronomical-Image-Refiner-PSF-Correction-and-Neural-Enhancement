@@ -1,4 +1,4 @@
-```markdown
+
 # Archived Old QCAUS & StealthPDPRadar Projects (v0.1 – v0.9)
 
 **These repositories will be archived on April 14, 2026 (in 2 weeks).**
@@ -10,7 +10,9 @@ All previous versions have been superseded by **QCAUS v1.0**.
 New unified QCAUS v1.0 contains everything from the old projects plus major improvements (annotated overlays, ZIP export, historical airport presets, full physics display).
 
 **[Launch QCAUS App](https://qcaustfordmodel.streamlit.app/)**]
+
 https://github.com/tlcagford/QCAUS
+
 — Tony E. Ford, March 31, 2026
 # 🌌 Quantum Cosmology & Astrophysics Unified Suite (QCAUS)
 
