@@ -1,19 +1,8 @@
-
-# Archived Old QCAUS & StealthPDPRadar Projects (v0.1 – v0.9)
-
-**These repositories will be archived on April 14, 2026 (in 2 weeks).**
-
-All previous versions have been superseded by **QCAUS v1.0**.
-
-**Please download any code or data you need before April 14, 2026.**
-
-New unified QCAUS v1.0 contains everything from the old projects plus major improvements (annotated overlays, ZIP export, historical airport presets, full physics display).
-
-**[Launch QCAUS App](https://qcaustfordmodel.streamlit.app/)**]
-
+NOTICE OF CONSOLIDATION & PARTNERSHIP PENDING
+As of April 2026, the 20 pipelines of the QCAUS/PDPBioGen suites are undergoing consolidation for high-scale institutional research. Core 'Ford 2026' algorithms remain the proprietary IP of Tony Eugene Ford and the Future Ford Peace and Justice Foundation. Academic users at partner institutions are currently performing validation; all other commercial inquiries must contact the author
 https://github.com/tlcagford/QCAUS
 
-— Tony E. Ford, March 31, 2026
+— Tony E. Ford, 4/14/2026
 # 🌌 Quantum Cosmology & Astrophysics Unified Suite (QCAUS)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantum-cosmology-astrophysics-unified-suite.streamlit.app/)
