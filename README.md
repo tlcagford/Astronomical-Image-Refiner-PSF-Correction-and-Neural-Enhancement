@@ -1,15 +1,11 @@
 NOTICE OF CONSOLIDATION & PARTNERSHIP PENDING
 As of April 2026, the 20 pipelines of the QCAUS/PDPBioGen suites are undergoing consolidation for high-scale institutional research. Core 'Ford 2026' algorithms remain the proprietary IP of Tony Eugene Ford and the Future Ford Peace and Justice Foundation. Academic users at partner institutions are currently performing validation; all other commercial inquiries must contact the author
-https://github.com/tlcagford/QCAUS
 
-— Tony E. Ford, 4/14/2026
 # 🌌 Quantum Cosmology & Astrophysics Unified Suite (QCAUS)
 [![License](https://img.shields.io/badge/License-Dual%20License-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 A unified computational framework integrating 8 interconnected open-source projects that explore the quantum nature of the universe – from dark matter solitons to quantum-corrected cosmology, magnetar QED, and stealth/dark-leakage detection. 
-
-**[Launch QCAUS App](https://qcaustfordmodel.streamlit.app/)**
 
 ---
 
