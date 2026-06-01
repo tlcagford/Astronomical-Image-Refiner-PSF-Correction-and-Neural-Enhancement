@@ -4,8 +4,6 @@ https://github.com/tlcagford/QCAUS
 
 — Tony E. Ford, 4/14/2026
 # 🌌 Quantum Cosmology & Astrophysics Unified Suite (QCAUS)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantum-cosmology-astrophysics-unified-suite.streamlit.app/)
 [![License](https://img.shields.io/badge/License-Dual%20License-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
